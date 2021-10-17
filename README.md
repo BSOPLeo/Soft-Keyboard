@@ -1,5 +1,6 @@
 # Soft-Keyboard
 A soft keyboard that can change color.
+Resolution: 2736 by 1824
 ## How to Run
 Python 3.8.1
 ```
